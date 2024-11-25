@@ -41,6 +41,10 @@ This repository includes:
 ### Prerequisites
 - Python 3.10 or later
 - pip (Python package manager)
+  ![Screenshot 2024-11-25 213153](https://github.com/user-attachments/assets/cd5ca50f-9535-4d24-94ca-80dbbb7ccf8a)
+  ![Screenshot 2024-11-25 213207](https://github.com/user-attachments/assets/43a10207-4e85-4aeb-b0a8-0731e10b40b5)
+
+
 
 ### Steps
 1. Clone the repository:
